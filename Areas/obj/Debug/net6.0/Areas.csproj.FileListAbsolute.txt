@@ -240,6 +240,18 @@ F:\asprepo\Areas\Areas\obj\Debug\net6.0\refint\Areas.dll
 F:\asprepo\Areas\Areas\obj\Debug\net6.0\Areas.pdb
 F:\asprepo\Areas\Areas\obj\Debug\net6.0\Areas.genruntimeconfig.cache
 F:\asprepo\Areas\Areas\obj\Debug\net6.0\ref\Areas.dll
+C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.dll
+C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\ref\Areas.dll
+C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.pdb
+C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.AssemblyInfoInputs.cache
+C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.AssemblyInfo.cs
+C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.csproj.CoreCompileInputs.cache
+C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.RazorAssemblyInfo.cache
+C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.RazorAssemblyInfo.cs
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\appsettings.json
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\Areas.staticwebassets.runtime.json
@@ -273,6 +285,7 @@ C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -292,6 +305,9 @@ C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\NuGet.ProjectModel.dll
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\NuGet.Protocol.dll
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\System.Composition.AttributedModel.dll
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\System.Composition.Convention.dll
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\System.Composition.Hosting.dll
@@ -465,20 +481,9 @@ C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.csproj.AssemblyReference.cache
-C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.AssemblyInfoInputs.cache
-C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.AssemblyInfo.cs
-C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.csproj.CoreCompileInputs.cache
-C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.RazorAssemblyInfo.cache
-C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.RazorAssemblyInfo.cs
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\scopedcss\bundle\Areas.styles.css
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\scopedcss\projectbundle\Areas.bundle.scp.css
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.csproj.CopyComplete
-C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.dll
-C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\ref\Areas.dll
-C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.pdb
 C:\Users\coskun\Desktop\COŞKUN DERS\aspnet\AreaWtihLogin\Areas\obj\Debug\net6.0\Areas.genruntimeconfig.cache
